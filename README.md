@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Temesgen Meles
-- 👀 I’m interested in designing and deveoping back-end as well as front-end web applications
+- 👀 I’m interested in designing and developing back-end as well as front-end web applications
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on some full stack web-development project
 - 📫 How to reach me - temesgen12m1@gmail.com
