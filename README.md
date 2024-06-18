@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Django Delight](https://github.com/TemesgenMeles/Django-Delight)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** & **Django Rest Framework**
 
 - 👯 I’m looking to collaborate on **some Full-Stack Web-Development projectss**
 
