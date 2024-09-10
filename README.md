@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temesgenmeles&label=Profile%20views&color=0e75b6&style=flat" alt="temesgenmeles" /> </p>
 
-- 🔭 I’m currently working on [Django Delight](https://github.com/TemesgenMeles/Django-Delight)
+- 🔭 I’m currently working on [My Portofolio](https://github.com/TemesgenMeles/)
 
 - 🌱 I’m currently learning **ReactJS** & **Django Rest Framework**
 
